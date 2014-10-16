@@ -13,6 +13,12 @@
 *.swp
 .DS_Store
 
+# artifacts
+node_modules
+
+# IDEs
+.idea
+*.iml
 _Resharper.DefinitelyTyped
 bin
 obj
